@@ -10,7 +10,7 @@ concepts==0.7.12
 construct==2.5.3
 curses==2.2
 cycler==0.10.0
-dask==0.15.2
+dask==2021.10.0
 distributed==1.18.3
 Django==2.0.6
 django-contrib-comments==1.8.0
